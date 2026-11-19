@@ -1,3 +1,3 @@
 :HL["/som-service/_next/static/css/6393dc6ae1f0d406.css","style"]
-:HL["/som-service/_next/static/css/23ed4ef676b875be.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"rental-terms","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"nXQOtv_HQQ_kNRIOgx9dp"}
+:HL["/som-service/_next/static/css/770af5b63adc10f4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"rental-terms","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"AWqWieGmD9YtoIJpaxE9P"}
